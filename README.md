@@ -21,7 +21,7 @@ Play Option and Advanced Options are working. Assisted Options is disabled yet.
 
 ## RESULT and COURSE RESULT screens (Lua)
 
-Player side can be changed in skin config option. Uptime counter doesn't work currently. It's an current issue of BMZ Player, that will be fixed in the next version.
+Player side can be changed in skin config option. 
 *Background images are not included and shown for reference*
 
 <img width="2560" height="1440" alt="image2" src="https://github.com/user-attachments/assets/99c496a0-66e2-4f32-9c8e-553e9a94194c" />
