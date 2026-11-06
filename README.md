@@ -1,11 +1,16 @@
 # LIGHT1440
-LIGHT1440 is skin set for BMZ Player. Currently it doesn't work in beatoraja without editing, because it utilizes a specific features of BMZ Player. 
+LIGHT1440 is skin set for BMZ Player and beatoraja.
 
 Resolution: **2560x1440** (can work on lower resolution, like 1920x1080). Not optimized for aspect ratios that are not 16:9.
-Any resolution background images or videos can be placed into **bg** folder of each skin. Supported formats: PNG, MP4, WMV (at least those three :) 100% )
+Any resolution background images or videos can be placed into **bg** folder of each skin. Supported formats: JPG, PNG, MP4, WMV (at least those three :) 100% )
 
-Download from Google Drive:
-<https://drive.google.com/file/d/1em2Z1ZV2XaYwpjBJd9FWC9RdznBRw7Kn/view?usp=sharing> (70mb)
+Download from Google Drive (updated November, 6 2026):
+<https://drive.google.com/file/d/1Z_xFd2HdscIDTYpk6ovz6hsZEjioC8ni> (~70mb)
+
+**Changelog**: 
+Added separate LUA files for compatibility with beatoraja. (_oraja.luaskin in filename) Version 0.8. Tested in beatoraja 0.8.8/LR2oraja Endless Dream 0.5.0 pre-release.
+
+BMZ version of the skinset has been updated to 1.1. Fixed the small issue where decide, result and course result skins were restricted to only have a .PNG file backgrounds. Now any image filetype can be used as well as video filetypes (MP4/WMV/AVI/MPG)
 
 ## Music Select screen and DECIDE (Lua)
 
