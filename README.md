@@ -5,7 +5,7 @@ Resolution: **2560x1440** (can work on lower resolution, like 1920x1080).
 Any resolution background images or videos can be placed into **bg** folder of each skin. Supported formats: JPG, PNG, MP4, WMV (at least those three :) 100% )
 
 Download from Google Drive (updated November, 21 2026):
-<https://drive.google.com/file/d/1S-qw7bkFwDonSCHCkod0rvMlHEFX8ijx/view?usp=sharing> (~60mb)
+<https://drive.google.com/file/d/1S-qw7bkFwDonSCHCkod0rvMlHEFX8ijx> (~60mb)
 
 Added separate LUA files for compatibility with beatoraja. (_oraja.luaskin in filename) Version 0.8. Tested in beatoraja 0.8.8/LR2oraja Endless Dream 0.5.0 pre-release.
 
