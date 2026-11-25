@@ -9,6 +9,8 @@ Download from Google Drive (updated November, 25 2026):
 
 Added separate LUA files for compatibility with beatoraja. (_oraja.luaskin in filename) Version 1.0. Tested in beatoraja 0.8.8/LR2oraja Endless Dream 0.5.0 pre-release.
 
+Also, please check releases page to see the changelog for each new update. 
+
 ## Music Select screen and DECIDE (Lua)
 
 The entire skin set uses pretty much clean, lightweight design, every (or almost) necessary information included. Player info section, ranking, lamp graphs, clock can be turned off an on, in the skin config.
