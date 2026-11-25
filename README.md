@@ -4,8 +4,8 @@ LIGHT1440 is skin set for BMZ Player and beatoraja.
 Resolution: **2560x1440** (can work on lower resolution, like 1920x1080).
 Any resolution background images or videos can be placed into **bg** folder of each skin. Supported formats: JPG, PNG, MP4, WMV (at least those three :) 100% )
 
-Download from Google Drive (updated November, 22 2026):
-<https://drive.google.com/file/d/1Rez0CwTqzj5CNDMuGzYBvM0OKT_Fiyt2> (~60mb)
+Download from Google Drive (updated November, 25 2026):
+<https://drive.google.com/file/d/1HcWHNuKu7b_doktVApkDv88VNomYIdon> (~60mb)
 
 Added separate LUA files for compatibility with beatoraja. (_oraja.luaskin in filename) Version 1.0. Tested in beatoraja 0.8.8/LR2oraja Endless Dream 0.5.0 pre-release.
 
